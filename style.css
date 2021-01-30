@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(47,67,87);
+}
+
+button
+{
+    background-color: rgb(47,67,87);
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+}
+.prev
+{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+.next
+{
+    position: absolute;
+    top: 30%;
+    left: 78%;
+}
+#head
+{
+    text-align: center; 
+    letter-spacing: 3px; 
+    word-spacing: 6px;
+    font-size: 28px;
+    color: whitesmoke; 
+    margin-top: 40px;
+}
+#div
+{
+    text-align: center; 
+    margin-top: 30px;
+}
+#img
+{
+    box-shadow: 1px 1px 4px 2px grey; 
+}
